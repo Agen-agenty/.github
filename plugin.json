@@ -1,0 +1,22 @@
+{
+  "$schema": "https://acode.app/schema/plugin/v0.1.0.json",
+  "id": "acode.plugin.preact",
+  "name": "Preact Example",
+  "main": "main.js",
+  "version": "1.0.0",
+  "readme": "readme.md",
+  "changelogs": "changelogs.md",
+  "repository": "https://github.com/Acode-Foundation/acode-plugin-preact.git",
+  "icon": "icon.png",
+  "files": [],
+  "minVersionCode": 290,
+  "license": "MIT",
+  "keywords": ["preact", "ui", "template", "example"],
+  "price": 0,
+  "permissions": [],
+  "author": {
+    "name": "Acode Foundation",
+    "email": "",
+    "github": "Acode-Foundation"
+  }
+}
